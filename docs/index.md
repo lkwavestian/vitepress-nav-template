@@ -3,14 +3,14 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: 千浔物语
+  text: Qian Xun 的成长之路
+  tagline: Keep Reading, Keep Writing, Keep Coding
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: 千浔物语
   actions:
-    - text: 茂茂物语
+    - text: 千浔物语
       link: https://notes.fe-mm.com
     - text: 前端导航
       link: /nav/
